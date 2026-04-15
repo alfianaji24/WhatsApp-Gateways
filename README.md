@@ -182,10 +182,7 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 
 ## 📞 Support
 
-- **Author**: M-Pedia.co.id
-- **Email**: ilmansunannudin2@gmail.com
-- **WhatsApp**: +6282298859671
-- **Website**: https://m-pedia.co.id
+Untuk informasi dan bantuan lebih lanjut, silakan hubungi melalui repository GitHub atau issue tracker.
 
 ## ⭐ Acknowledgments
 
